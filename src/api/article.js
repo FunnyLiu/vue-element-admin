@@ -1,5 +1,5 @@
 import request from '@/utils/request'
-
+// 做一个测试
 export function fetchList(query) {
   return request({
     url: '/vue-element-admin/article/list',
